@@ -31,7 +31,7 @@ Then Build
 npm run build
 ```
 
-Then run webpack dev server so all your on-the-fly changes are hot loaded into your browser (default port `8080`)
+Then run webpack dev server so all your on-the-fly changes are hot loaded into your browser, simply visit http://localhost:8080
 
 ```console
 npm start
