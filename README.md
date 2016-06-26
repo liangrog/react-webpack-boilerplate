@@ -1,5 +1,5 @@
 # React Webpack Boilerplate
-Boilerplate to start your react project written in ES6 syntax using [react], [react-dom], [react-router], [reactive js](rx-lite) and [web pack]
+Boilerplate to start your react project written in ES6 syntax using [react], [react-dom], [react-router], [reactive] (rx-lite) and [web pack]
 
 > * Webpack is configured to use Babel for transpiling ES6 codes 
 > * The javascript build is split into bundles based on routing and dynamically loaded for each route
@@ -14,7 +14,7 @@ Boilerplate to start your react project written in ES6 syntax using [react], [re
 [react]: https://www.npmjs.com/package/react
 [react-dom]: https://www.npmjs.com/package/react-dom
 [react-router]: https://www.npmjs.com/package/react-router
-[reactive js]: https://www.npmjs.com/package/rx-lite
+[reactive]: https://www.npmjs.com/package/rx-lite
 [web pack]: https://www.npmjs.com/package/webpack
 
 ## Usage
